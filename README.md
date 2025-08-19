@@ -120,4 +120,4 @@ The project is deployed and live on Hugging Face Spaces!
 
 ---
 
-✨ Developed with ❤️ by [Your Name]  
+✨ Developed with ❤️ by [Sourav Kumar]  
